@@ -1,0 +1,28 @@
+pewpew2
+v5
+/data/levels/infinity/megagore/megagore.lua
+2
+Server
+0
+1
+0
+emulator
+0
+2
+0
+/data/levels/infinity/dodge this/dodge this.lua
+0
+/data/levels/infinity/assault/assault.lua
+0
+/data/levels/infinity/asteroids/asteroids.lua
+0
+/data/levels/infinity/chromatic conflict/chromatic conflict.lua
+0
+/data/levels/infinity/highway/highway.lua
+0
+/data/levels/infinity/amalgam/amalgam.lua
+0
+/data/levels/infinity/symbiosis/symbiosis.lua
+0
+/data/levels/infinity/pacifism/pacifism.lua
+0
