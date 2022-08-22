@@ -14,3 +14,4 @@ Written in Py using Bottle framework as RE practice. In future it'll be updating
 
 ## Kind of disclaimer:
  - I'm not related to original PewPew development team. If you are author of PewPew and you don't want it to be public then please, create Issue and I'll delete this.
+ - Also I'm not responsible for any things you do with this source.
