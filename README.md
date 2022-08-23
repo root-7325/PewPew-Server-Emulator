@@ -5,8 +5,8 @@ Written in Py using Bottle framework as RE practice. In future it'll be updating
  - You should figure out this by yourself.
 
 ## What implemented:
- - Hardcoded leaderboard
- - Score upload (hardcoded)
+ - Database (for leadboard)
+ - Leaderboard (getting scores from server, uploading own)
 
 ## Something more:
  - You can checkout some info in [docs](https://github.com/root-7325/PewPew-Docs)
