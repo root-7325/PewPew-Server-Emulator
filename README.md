@@ -5,7 +5,7 @@ Written in Py using Bottle framework as RE practice. In future it'll be updating
  - You should figure out this by yourself.
 
 ## What implemented:
- - Database (for leadboard)
+ - Database (for leaderboard)
  - Leaderboard (getting scores from server, uploading own)
 
 ## Something more:
