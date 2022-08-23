@@ -1,10 +1,6 @@
 pewpew2
 v5
 /data/levels/infinity/megagore/megagore.lua
-1
-^dr^@o^?o^5t^y73^$25
-2400
-1
 0
 /data/levels/infinity/dodge this/dodge this.lua
 0
