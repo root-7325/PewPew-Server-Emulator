@@ -1,6 +1,8 @@
 # PewPew-Server-Emulator
 Written in Py using Bottle framework as RE practice. In future it'll be updating (maybe).
 
+It's supports both PewPew and PewPew2, difference only in game host.
+
 ## How to connect:
  - You should figure out this by yourself.
 
