@@ -1,14 +1,10 @@
 pewpew2
 v5
 /data/levels/infinity/megagore/megagore.lua
-2
-Server
-0
 1
-0
-emulator
-0
-2
+^dr^@o^?o^5t^y73^$25
+2400
+1
 0
 /data/levels/infinity/dodge this/dodge this.lua
 0

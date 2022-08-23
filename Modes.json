@@ -1,0 +1,29 @@
+[
+    {
+        "Megagore": "/data/levels/infinity/megagore/megagore.lua"
+    },
+    {
+        "DodgeThis": "/data/levels/infinity/dodge this/dodge this.lua"   
+    },
+    {
+        "Assault": "/data/levels/infinity/assault/assault.lua"
+    },
+    {
+        "Asteroids": "/data/levels/infinity/asteroids/asteroids.lua"
+    },
+    {
+        "ChromaticConflict": "/data/levels/infinity/chromatic conflict/chromatic conflict.lua"
+    },
+    {
+        "Highway": "/data/levels/infinity/highway/highway.lua"
+    },
+    {
+        "Amalgam": "/data/levels/infinity/amalgam/amalgam.lua"
+    },
+    {
+        "Symbiosis": "/data/levels/infinity/symbiosis/symbiosis.lua"
+    },
+    {
+        "Pacifism": "/data/levels/infinity/pacifism/pacifism.lua"
+    }
+]
