@@ -4,7 +4,7 @@ Written in Py using Bottle framework as RE practice. In future it'll be updating
 It's supports both PewPew and PewPew2, difference only in game host.
 
 ## How to connect:
- - You should figure out this by yourself.
+ - Added script to [docs](https://github.com/root-7325/PewPew-Docs), but still - how to use it you should find out by yourself 🙃
 
 ## What implemented:
  - Database (for leaderboard)
